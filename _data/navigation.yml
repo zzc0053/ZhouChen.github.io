@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Workshop"
-    url: "/#-workshop"
+    url: "/#workshop"
 
   - title: "Work"
-    url: "/#-work"
+    url: "/#work"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
 
   - title: "Collaborate"
     url: "/#collaborate"
