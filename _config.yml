@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhou Chen"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "This website serves as a hub for my research, publications, projects, and academic updates. Feel free to explore my recent work or reach out if you'd like to collaborate!"
 repository               : "zzc0053/ZhouChen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhou Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "I'm fine."
   location         : "Auburn, AL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "zzc0053@auburn.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
