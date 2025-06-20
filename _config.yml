@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhou Chen"
-description              : "Good morning! And in case I don't see ya — good afternoon, good evening, and good night!"
+description              : "Good morning!<br>And in case I don't see ya —<br>good afternoon, good evening, and good night!"
 repository               : "zzc0053/ZhouChen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhou Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "I'm fine."
+  bio              : "Auburn University"
   location         : "Auburn, AL"
   employer         :
   pubmed           : 
