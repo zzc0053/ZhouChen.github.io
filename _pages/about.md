@@ -26,8 +26,7 @@ and my Bachelor’s degree in Computer Science and Technology from Central South
 Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acquisition (ORCA) Lab](https://saakur.github.io/group.html) led by Dr. Aakur. My research focuses on Active Event Perception, Visual Affordance Grounding and Multimodal Open World Understanding in the context of computer vision for robotic applications.
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 I presented a paper at the Vision-based Assistants in the Real-World Workshop, CVPR 2025. 
 
 # Publications 
 
@@ -45,6 +44,31 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# Work
+- **Hualu Zhida Technology Co., Ltd.**, Dalian, China  
+  *Junior Software Engineer, Embedded Department – Android Development Group*  
+  *Aug 2021 – Jun 2022*
 
-# 💻 Internships
+# Internships
 - *2020.09.07 - 2021.01.03*, ZTE Corporation, China.
+
+
+# Collaborate
+I am fortunate to collaborate with the following researchers:
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=XXX" target="_blank">
+    <img src="/assets/imgs/alice.jpg" width="100"><br>
+    <sub><b>Alice Zhang</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bobliu" target="_blank">
+    <img src="/assets/imgs/bob.jpg" width="100"><br>
+    <sub><b>Bob Liu</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://zhouchenlab.com" target="_blank">
+    <img src="/assets/imgs/zhouchen.jpg" width="100"><br>
+    <sub><b>Zhou Chen</b></sub>
+  </a>
+</p>
