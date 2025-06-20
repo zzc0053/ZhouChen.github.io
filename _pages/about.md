@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
 Hello, hope you are doing great! i'm first year PhD student at the department of [Computer Science and Software Engineering](https://eng.auburn.edu/csse/#gsc.tab=0) at [Auburn University](https://www.auburn.edu/), under the supervision of [Dr. Sathyanarayanan N. Aakur](https://saakur.github.io/).
 
 I obtained my Master’s degree in Computer Science and Software Engineering from Auburn University, USA, in 2024,  
