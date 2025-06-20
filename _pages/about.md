@@ -26,6 +26,7 @@ and my Bachelor’s degree in Computer Science and Technology from Central South
 Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acquisition (ORCA) Lab](https://saakur.github.io/group.html) led by Dr. Aakur. My research focuses on Active Event Perception, Visual Affordance Grounding and Multimodal Open World Understanding in the context of computer vision for robotic applications.
 
 # News
+- *2025.06*: &nbsp;🎉🎉 Congratulations to labmate Sanjoy Kundu for receiving the Outstanding Reviewer Award at CVPR 2025
 - *2025.06*: &nbsp;🎉🎉 I presented a paper at the Vision-based Assistants in the Real-World Workshop, CVPR 2025. 
 
 # Publications 
@@ -43,6 +44,20 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# Workshop
+- **Learning to Perceive and Act: Active Event Understanding via Predictive Free Energy Minimization**  
+  *Zhou Chen, Sanjoy Kundu, Harsimran Bhaweja, Sathyanarayanan N. Aakur*  
+  Vision-based Assistants in the Real-World Workshop, CVPR 2025
+
+- **A Self-supervised Framework for Embodied Active Event Perception**  
+  *Zhou Chen, Sanjoy Kundu, Harsimran Bhaweja, Sathyanarayanan N. Aakur*  
+  How do Robots Care? Workshop, IEEE International Conference on Robotics and Automation (ICRA), 2025
+
+- **A Self-supervised Framework for Embodied Active Event Perception**  
+  *Zhou Chen, Sanjoy Kundu, Harsimran Bhaweja, Sathyanarayanan N. Aakur*  
+  ICRA 2025 Late Breaking Works
+
 
 # Work
 - **Hualu Zhida Technology Co., Ltd.**, Dalian, China  
