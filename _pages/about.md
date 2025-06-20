@@ -18,14 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hello, hope you are doing great! i'm first year PhD student at the department of [Computer Science and Software Engineering](https://eng.auburn.edu/csse/#gsc.tab=0) at [Auburn University](https://www.auburn.edu/), under the supervision of [Dr. Sathyanarayanan N. Aakur](https://saakur.github.io/).
+Hello, hope you are doing great! I'm first year PhD student at the department of [Computer Science and Software Engineering](https://eng.auburn.edu/csse/#gsc.tab=0) at [Auburn University](https://www.auburn.edu/), under the supervision of [Dr. Sathyanarayanan N. Aakur](https://saakur.github.io/).
 
 I obtained my Master’s degree in Computer Science and Software Engineering from Auburn University, USA, in 2024,  
 and my Bachelor’s degree in Computer Science and Technology from Central South University, China, in 2021.
 
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acquisition (ORCA) Lab](https://saakur.github.io/group.html) led by Dr. Aakur. My research focuses on Active Event Perception, Visual Affordance Grounding and Multimodal Open World Understanding in the context of computer vision for robotic applications.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
