@@ -9,8 +9,14 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Work"
+    url: "/#-work"
+
   - title: "Internships"
     url: "/#-internships"
+
+  - title: "Collaborate"
+    url: "/#collaborate"
     
   - title: "CV"
     url: /assets/CV.pdf
