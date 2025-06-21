@@ -74,19 +74,30 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 # Collaborate
 I am fortunate to collaborate with the following researchers:
 
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=XXX" target="_blank">
-    <img src="/images/aakur.jpg" width="100"><br>
-    <sub><b>Sathyanarayanan N. Aakur(Advisor)</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/bobliu" target="_blank">
-    <img src="images/sanjoy.jpeg" width="100"><br>
-    <sub><b>Sanjoy Kundu</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://zhouchenlab.com" target="_blank">
-    <img src="images/blank.jpeg" width="100"><br>
-    <sub><b>Joe Lin</b></sub>
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: center;">
+
+  <div>
+    <a href="https://scholar.google.com/citations?user=XXX" target="_blank">
+      <img src="/images/aakur.jpg" width="130" style="border-radius: 8px;"><br>
+      <b>Sathyanarayanan N. Aakur</b><br>
+      Advisor
+    </a>
+  </div>
+
+  <div>
+    <a href="https://github.com/bobliu" target="_blank">
+      <img src="/images/sanjoy.jpeg" width="130" style="border-radius: 8px;"><br>
+      <b>Sanjoy Kundu</b><br>
+      Ph.D. Candidate
+    </a>
+  </div>
+
+  <div>
+    <a href="https://zhouchenlab.com" target="_blank">
+      <img src="/images/blank.jpeg" width="130" style="border-radius: 8px;"><br>
+      <b>Joe Lin</b><br>
+      Ph.D. Student
+    </a>
+  </div>
+
+</div>
