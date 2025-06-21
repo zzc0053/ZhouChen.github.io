@@ -77,7 +77,7 @@ I am fortunate to collaborate with the following researchers:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: center;">
 
   <div>
-    <a href="https://scholar.google.com/citations?user=XXX" target="_blank">
+    <a href="https://saakur.github.io/" target="_blank">
       <img src="/images/aakur.jpg" width="130" style="border-radius: 8px;"><br>
       <b>Sathyanarayanan N. Aakur</b><br>
       Advisor
@@ -85,7 +85,7 @@ I am fortunate to collaborate with the following researchers:
   </div>
 
   <div>
-    <a href="https://github.com/bobliu" target="_blank">
+    <a href="https://sanjoykundu.github.io/" target="_blank">
       <img src="/images/sanjoy.jpeg" width="130" style="border-radius: 8px;"><br>
       <b>Sanjoy Kundu</b><br>
       Ph.D. Candidate
@@ -93,7 +93,7 @@ I am fortunate to collaborate with the following researchers:
   </div>
 
   <div>
-    <a href="https://zhouchenlab.com" target="_blank">
+    <a href="" target="_blank">
       <img src="/images/blank.jpeg" width="130" style="border-radius: 8px;"><br>
       <b>Joe Lin</b><br>
       Ph.D. Student
