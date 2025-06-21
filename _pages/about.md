@@ -36,14 +36,14 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
   <div class='paper-box-image'>
     <div>
       <div class="badge">RA-L 2025</div>
-      <img src='images/ease-thumbnail.png' alt="ease-paper" width="100%">
+      <img src='images/ease.png' alt="ease-paper" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[EASE:Embodied Active Event Perception via Self-Supervised Free Energy Minimization]()**
-**Zhou Chen**, Sanjoy Kundu, Harsimran Baweja, Sathyanarayanan Aakur
-*IEEE Robotics and Automation Letters (RA-L)*, 2025. *(Impact Factor: 4.6)*
+**[EASE: Embodied Active Event Perception via Self-Supervised Free Energy Minimization](#)**  
+**Zhou Chen**, Sanjoy Kundu, Harsimran Baweja, Sathyanarayanan Aakur  
+*IEEE Robotics and Automation Letters (RA-L)*, 2025. _(Impact Factor: 4.6)_
 [**Project Link**](https://saakur.github.io/Projects/EASE/index.html) 
 </div>
 </div>
