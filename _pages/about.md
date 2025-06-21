@@ -74,7 +74,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 # Collaborate
 I am fortunate to collaborate with the following researchers:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: left;">
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 40px; text-align: center;">
 
   <div>
     <a href="https://saakur.github.io/" target="_blank">
