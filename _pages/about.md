@@ -41,10 +41,26 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[EASE: Embodied Active Event Perception via Self-Supervised Free Energy Minimization](#)**  
+**[EASE: Embodied Active Event Perception via Self-Supervised Free Energy Minimization](https://zzc0053.github.io/)**  
 **Zhou Chen**, Sanjoy Kundu, Harsimran Baweja, Sathyanarayanan Aakur  
 *IEEE Robotics and Automation Letters (RA-L)*, 2025. _(Impact Factor: 4.6)_  
 [**Project Link**](https://saakur.github.io/Projects/EASE/index.html)
+</div>
+</div>
+
+<!-- === Paper 2 === -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Information 2021</div>
+      <img src='images/mtsgan.png' alt="time-series-gan-paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[Prediction Method of Multiple Related Time Series Based on Generative Adversarial Networks](https://doi.org/10.3390/info12020055)**  
+Weijie Wu, Fang Huang, Yidi Kao, **Zhou Chen**, Qi Wu  
+*Information*, Vol. 12, No. 2, 2021, Article 55.  
 </div>
 </div>
 
@@ -92,7 +108,7 @@ I am fortunate to collaborate with the following researchers:
   </div>
 
   <div>
-    <a href="" target="_blank">
+    <a href="https://zzc0053.github.io/" target="_blank">
       <img src="/images/blank.jpeg" width="130" style="border-radius: 8px;"><br>
       <b>Joe Lin</b><br>
     </a>
