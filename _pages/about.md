@@ -21,7 +21,7 @@ redirect_from:
 Hello, hope you are doing great! I'm first year PhD student at the department of [Computer Science and Software Engineering](https://eng.auburn.edu/csse/#gsc.tab=0) at [Auburn University](https://www.auburn.edu/), under the supervision of [Dr. Sathyanarayanan N. Aakur](https://saakur.github.io/).
 
 I obtained my Master’s degree in Computer Science and Software Engineering from Auburn University, USA, in 2024,  
-and my Bachelor’s degree in Computer Science and Technology from Central South University, China, in 2021.
+and my Bachelor’s degree in Computer Science and Technology from [Central South University](https://en.csu.edu.cn/), China, in 2021.
 
 Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acquisition (ORCA) Lab](https://saakur.github.io/group.html) led by Dr. Aakur. My research focuses on Active Event Perception, Visual Affordance Grounding and Multimodal Open World Understanding in the context of computer vision for robotic applications.
 
@@ -86,7 +86,7 @@ I am fortunate to collaborate with the following researchers:
 
   <div>
     <a href="https://sanjoykundu.github.io/" target="_blank">
-      <img src="/images/sanjoy.jpeg" width="130" style="border-radius: 8px;"><br>
+      <img src="images/sanjoy.jpeg" style="width:130px; height:130px; object-fit:cover; border-radius:8px;"><br>
       <b>Sanjoy Kundu</b><br>
     </a>
   </div>
