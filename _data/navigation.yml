@@ -18,8 +18,8 @@ main:
   - title: "Internships"
     url: "/#internships"
 
-  - title: "Collaborate"
-    url: "/#collaborate"
+  - title: "Collaborators"
+    url: "/#collaborators"
     
   - title: "CV"
     url: /assets/CV.pdf
