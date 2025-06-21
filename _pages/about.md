@@ -76,17 +76,17 @@ I am fortunate to collaborate with the following researchers:
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=XXX" target="_blank">
-    <img src="/assets/imgs/alice.jpg" width="100"><br>
-    <sub><b>Alice Zhang</b></sub>
+    <img src="/images/aakur.jpg" width="100"><br>
+    <sub><b>Sathyanarayanan N. Aakur(Advisor)</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bobliu" target="_blank">
-    <img src="/assets/imgs/bob.jpg" width="100"><br>
-    <sub><b>Bob Liu</b></sub>
+    <img src="images/sanjoy.jpeg" width="100"><br>
+    <sub><b>Sanjoy Kundu</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://zhouchenlab.com" target="_blank">
-    <img src="/assets/imgs/zhouchen.jpg" width="100"><br>
-    <sub><b>Zhou Chen</b></sub>
+    <img src="images/blank.jpeg" width="100"><br>
+    <sub><b>Joe Lin</b></sub>
   </a>
 </p>
