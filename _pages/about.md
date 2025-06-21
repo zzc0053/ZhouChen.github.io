@@ -71,7 +71,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 - *2020.09.07 - 2021.01.03*, ZTE Corporation, China.
 
 
-# Collaborate
+# Collaborators
 I am fortunate to collaborate with the following researchers:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 40px; text-align: center;">
