@@ -74,7 +74,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 # Collaborate
 I am fortunate to collaborate with the following researchers:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: left;">
 
   <div>
     <a href="https://saakur.github.io/" target="_blank">
@@ -88,7 +88,6 @@ I am fortunate to collaborate with the following researchers:
     <a href="https://sanjoykundu.github.io/" target="_blank">
       <img src="/images/sanjoy.jpeg" width="130" style="border-radius: 8px;"><br>
       <b>Sanjoy Kundu</b><br>
-      Ph.D. Candidate
     </a>
   </div>
 
@@ -96,7 +95,6 @@ I am fortunate to collaborate with the following researchers:
     <a href="" target="_blank">
       <img src="/images/blank.jpeg" width="130" style="border-radius: 8px;"><br>
       <b>Joe Lin</b><br>
-      Ph.D. Student
     </a>
   </div>
 
