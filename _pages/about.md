@@ -41,7 +41,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[EASE: Embodied Active Event Perception via Self-Supervised Free Energy Minimization](https://varworkshop.github.io/assets/pdf/9.pdf)**  
+**[EASE: Embodied Active Event Perception via Self-Supervised Free Energy Minimization](https://arxiv.org/abs/2506.17516)**  
 **Zhou Chen**, Sanjoy Kundu, Harsimran Baweja, Sathyanarayanan Aakur  
 *IEEE Robotics and Automation Letters (RA-L)*, 2025. _(Impact Factor: 4.6)_  
 [**Project Link**](https://saakur.github.io/Projects/EASE/index.html)
