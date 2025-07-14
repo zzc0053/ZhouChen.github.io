@@ -26,7 +26,8 @@ and my Bachelor’s degree in Computer Science and Technology from [Central Sout
 Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acquisition (ORCA) Lab](https://saakur.github.io/group.html) led by Dr. Aakur. My research focuses on Active Event Perception, Visual Affordance Grounding and Multimodal Open World Understanding in the context of computer vision for robotic applications.
 
 # News
-- *2025.06*: &nbsp;🎉🎉 Congratulations to labmate Sanjoy Kundu for receiving the Outstanding Reviewer Award at CVPR 2025
+- *2025.07*: &nbsp;🎉🎉 Our work CRAFT is accepted by NeSy2025.
+- *2025.06*: &nbsp;🎉🎉 Congratulations to labmate Sanjoy Kundu for receiving the Outstanding Reviewer Award at CVPR 2025.
 - *2025.06*: &nbsp;🎉🎉 I presented a paper at the Vision-based Assistants in the Real-World Workshop, CVPR 2025. 
 
 # Publications 
@@ -34,7 +35,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RA-L 2025</div>
+      <div class="badge">NeSy 2025</div>
       <img src='images/nesy2025_craft.png' alt="craft-paper" width="100%">
     </div>
   </div>
