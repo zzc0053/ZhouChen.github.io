@@ -35,7 +35,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
   <div class='paper-box-image'>
     <div>
       <div class="badge">RA-L 2025</div>
-      <img src='images/ease.png' alt="ease-paper" width="100%">
+      <img src='images/nesy2025_craft.png' alt="craft-paper" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
