@@ -42,7 +42,7 @@ Currently, I'm working in the group of [Open-ended Reasoning and Knowledge Acqui
 
 **[CRAFT: A Neuro-Symbolic Reasoning Framework for Visual Functional Affordance Grounding.]()**  
 **Zhou Chen**, Joe Lin, Sathyanarayanan N. Aakur  
-*Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
+Conference on Neurosymbolic Learning and Reasoning (NeSy), 2025.
 </div>
 </div>
 
