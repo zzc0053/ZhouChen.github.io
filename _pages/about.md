@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hello, hope you are doing great! I'm first year PhD student at the department of [Computer Science and Software Engineering](https://eng.auburn.edu/csse/#gsc.tab=0) at [Auburn University](https://www.auburn.edu/), under the supervision of [Dr. Sathyanarayanan N. Aakur](https://saakur.github.io/).
+Hello, hope you are doing great! I'm a Ph.D. candidate in the department of [Computer Science and Software Engineering](https://eng.auburn.edu/csse/#gsc.tab=0) at [Auburn University](https://www.auburn.edu/), under the supervision of [Dr. Sathyanarayanan N. Aakur](https://saakur.github.io/).
 
 I obtained my Master’s degree in Computer Science and Software Engineering from Auburn University, USA, in 2024,  
 and my Bachelor’s degree in Computer Science and Technology from [Central South University](https://en.csu.edu.cn/), China, in 2021.
